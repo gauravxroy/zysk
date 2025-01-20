@@ -11,7 +11,7 @@ To get a local copy of this project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/zysk-assignment.git
+    git clone https://github.com/gauravxroy/zysk.git
     ```
 
 2. Navigate into the project directory:
@@ -43,7 +43,7 @@ To use this front-end application:
 ## Steps to Copy the Repository
 To copy the repository to your local machine, follow these steps:
 
-1. Visit the repository page on GitHub: [Zysk Front-End Assignment Repository](https://github.com/yourusername/zysk-assignment).
+1. Visit the repository page on GitHub: [Zysk Front-End Assignment Repository](https://github.com/gauravxroy/zysk.git).
 2. Click on the green "Code" button.
 3. Copy the URL provided under "Clone with HTTPS".
 4. Open your terminal/command prompt and run the following command:
