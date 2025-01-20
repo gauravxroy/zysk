@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the solution to the front-end assignment for Zysk. The project is designed to demonstrate my skills in front-end development.
 
-## Deployed Link :  https://assignment-zysk.netlify.app/
+## Deployed Link :  https://assignment-zysk-by-gaurav.netlify.app/
 
 ## Installation
 To get a local copy of this project, follow these steps:
