@@ -1,7 +1,7 @@
 # Zysk Front-End Assignment
 
 ## Overview
-This repository contains the solution to the front-end assignment for Zysk. The project is designed to demonstrate my skills in front-end development, specifically in [mention relevant technologies, e.g., React, HTML, CSS, etc.]. It includes [mention key features, such as a user interface, responsive design, etc.].
+This repository contains the solution to the front-end assignment for Zysk. The project is designed to demonstrate my skills in front-end development.
 
 ## Deployed Link :  https://assignment-zysk.netlify.app/
 
