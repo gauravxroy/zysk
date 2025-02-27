@@ -58,3 +58,5 @@ To copy the repository to your local machine, follow these steps:
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling the web pages.
 
+
+### Ghosted
